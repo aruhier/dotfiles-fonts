@@ -5,4 +5,4 @@ _DIR=`dirname "$0"`
 shopt -s extglob
 
 cd $_DIR
-wget https://github.com/Templarian/MaterialDesign-Font/raw/master/MaterialDesignIconsDesktop.ttf || exit 1
+wget -O MaterialDesignIconsDesktop.ttf https://github.com/Templarian/MaterialDesign-Font/raw/master/MaterialDesignIconsDesktop.ttf || exit 1
