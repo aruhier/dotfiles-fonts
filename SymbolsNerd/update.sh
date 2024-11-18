@@ -11,4 +11,5 @@ rm /tmp/SymbolsNerd.tar.xz
 
 # Cleanup.
 rm *.md
+rm *.conf
 rm LICENSE
